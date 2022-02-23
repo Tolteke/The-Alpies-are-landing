@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Her are the styles for the heading section */
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #1f2937;
+}
+
+.logo {
+  padding-top: 10px;
+  font-size: 24px;
+  font-weight: 900;
+  color: #f9faf8;
+}
+
+.nav_links {
+  padding-top: 10px;
+}
+
+ul {
+  display: flex;
+  gap: 15px;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+/* Here are the styles for the hero section */
